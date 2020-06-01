@@ -1,0 +1,25 @@
+// partial _templates.scss
+
+.signalisation-rfn.templates_bal{
+    &[data-param="A"] {
+        background-image: url("../svg/templates_bal/sig_a_circu.svg")
+    }
+    &[data-param="C"] {
+        background-image: url("../svg/templates_bal/sig_carre.svg")
+    }
+    &[data-param="Cv"] {
+        background-image: url("../svg/templates_bal/sig_cv.svg")
+    }
+    &[data-param="D"] {
+        background-image: url("../svg/templates_bal/sig_disque.svg")
+    }
+    &[data-param="ID"] {
+        background-image: url("../svg/templates_bal/sig_id.svg")
+    }
+    &[data-param="S"] {
+        background-image: url("../svg/templates_bal/sig_s.svg")
+    }
+    &[data-param="*"] {
+        background-image: url("../svg/templates_bal/tous.svg")
+    }
+}

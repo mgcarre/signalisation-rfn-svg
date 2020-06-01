@@ -1,0 +1,79 @@
+// partial _ARRET VOY.scss
+
+.signalisation-rfn.ARRET.VOY {
+    &[data-param="2V"] {
+        background-image: url("../svg/ARRET\ VOY/ARRET\ VOY\ 2V.svg")
+    }
+    &[data-param="3V"] {
+        background-image: url("../svg/ARRET\ VOY/ARRET\ VOY\ 3V.svg")
+    }
+    &[data-param="3V 4V"] {
+        background-image: url("../svg/ARRET\ VOY/ARRET\ VOY\ 3V\ 4V.svg")
+    }
+    &[data-param="4V"] {
+        background-image: url("../svg/ARRET\ VOY/ARRET\ VOY\ 4V.svg")
+    }
+    &[data-param="4V 5V"] {
+        background-image: url("../svg/ARRET\ VOY/ARRET\ VOY\ 4V\ 5V.svg")
+    }
+    &[data-param="4V 6V"] {
+        background-image: url("../svg/ARRET\ VOY/ARRET\ VOY\ 4V\ 6V.svg")
+    }
+    &[data-param="5V"] {
+        background-image: url("../svg/ARRET\ VOY/ARRET\ VOY\ 5V.svg")
+    }
+    &[data-param="6V"] {
+        background-image: url("../svg/ARRET\ VOY/ARRET\ VOY\ 6V.svg")
+    }
+    &[data-param="6V 8V"] {
+        background-image: url("../svg/ARRET\ VOY/ARRET\ VOY\ 6V 8V.svg")
+    }
+    &[data-param="7V"] {
+        background-image: url("../svg/ARRET\ VOY/ARRET\ VOY\ 7V.svg")
+    }
+    &[data-param="8V"] {
+        background-image: url("../svg/ARRET\ VOY/ARRET\ VOY\ 8V.svg")
+    }
+    &[data-param="8V 10V"] {
+        background-image: url("../svg/ARRET\ VOY/ARRET\ VOY\ 8V 10V.svg")
+    }
+    &[data-param="9V"] {
+        background-image: url("../svg/ARRET\ VOY/ARRET\ VOY\ 9V.svg")
+    }
+    &[data-param="10V"] {
+        background-image: url("../svg/ARRET\ VOY/ARRET\ VOY\ 10V.svg")
+    }
+    &[data-param="11V"] {
+        background-image: url("../svg/ARRET\ VOY/ARRET\ VOY\ 11V.svg")
+    }
+    &[data-param="12V"] {
+        background-image: url("../svg/ARRET\ VOY/ARRET\ VOY\ 12V.svg")
+    }
+    &[data-param="13V"] {
+        background-image: url("../svg/ARRET\ VOY/ARRET\ VOY\ 13V.svg")
+    }
+    &[data-param="14V"] {
+        background-image: url("../svg/ARRET\ VOY/ARRET\ VOY\ 14V.svg")
+    }
+    &[data-param="TGV1"] {
+        background-image: url("../svg/ARRET\ VOY/ARRET\ VOY\ TGV1.svg")
+    }
+    &[data-param="TGV1-2"] {
+        background-image: url("../svg/ARRET\ VOY/ARRET\ VOY\ TGV1-2.svg")
+    }
+    &[data-param="TGV2"] {
+        background-image: url("../svg/ARRET\ VOY/ARRET\ VOY\ TGV2.svg")
+    }
+    &[data-param="TT"] {
+        background-image: url("../svg/ARRET\ VOY/ARRET\ VOY\ TT.svg")
+    }
+    &[data-param="TTL"] {
+        background-image: url("../svg/ARRET\ VOY/ARRET\ VOY\ TTL.svg")
+    }
+    &[data-param="Z50-1"] {
+        background-image: url("../svg/ARRET\ VOY/ARRET\ VOY\ Z50-1.svg")
+    }
+    &[data-param="Z50-2"] {
+        background-image: url("../svg/ARRET\ VOY/ARRET\ VOY\ Z50-2.svg")
+    }
+}

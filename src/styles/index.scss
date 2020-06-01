@@ -1,0 +1,34 @@
+// @use '../../dist/main.css';
+@use '_ARRET_VOY';
+@use '_templates';
+@use '_TIV';
+
+$HW:64px;
+html,body{
+    height: 100vh;
+    width: 100%;
+}
+
+span {
+    min-height: $HW;
+    min-width: $HW;
+
+    background-size: auto auto;
+    
+    &.signalisation-rfn {
+        height: $HW;
+        width: $HW;
+        &.A {
+            background-image: url("../svg/A.svg");
+        }
+    }
+    &.signalisation-rfn-2x {
+        height: $HW*2!important;
+        width: $HW*2!important;
+    }
+    &.signalisation-rfn-3x {
+        height: $HW*3!important;
+        width: $HW*3!important;
+    }
+    
+}

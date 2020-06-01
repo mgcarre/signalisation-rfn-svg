@@ -81,19 +81,19 @@
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = "./src/index.js");
+/******/ 	return __webpack_require__(__webpack_require__.s = "./src/generator.js");
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ "./src/index.js":
-/*!**********************!*\
-  !*** ./src/index.js ***!
-  \**********************/
+/***/ "./src/generator.js":
+/*!**************************!*\
+  !*** ./src/generator.js ***!
+  \**************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("__webpack_require__(/*! ./signalisation-rfn-svg.font */ \"./src/signalisation-rfn-svg.font.js\");\r\n\n\n//# sourceURL=webpack:///./src/index.js?");
+eval("__webpack_require__(/*! ./signalisation-rfn-svg.font */ \"./src/signalisation-rfn-svg.font.js\");\n\n\n//# sourceURL=webpack:///./src/generator.js?");
 
 /***/ }),
 

@@ -1,0 +1,526 @@
+// partial _TIV.scss
+
+.signalisation-rfn.TIV {
+    &.D{
+        &.FIXE{
+            &[data-param="4"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 4.svg");
+            }
+            &[data-param="10"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 10.svg");
+            }
+            &[data-param="15 35"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 15\ 35.svg");
+            }
+            &[data-param="15"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 15.svg");
+            }
+            &[data-param="20 35"] {
+                background-image: url("../svg//TIVs/TIV\ D\ FIXE\ 20\ 35.svg");
+            }
+            &[data-param="20"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 20.svg");
+            }
+            &[data-param="25"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 25.svg");
+            }
+            &[data-param="30 35"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 30\ 35.svg");
+            }
+            &[data-param="30 40"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 30\ 40.svg");
+            }
+            &[data-param="30"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 30.svg");
+            }
+            &[data-param="40"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 40.svg");
+            }
+            &[data-param="45"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 45.svg");
+            }
+            &[data-param="50 30"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 50\ 30.svg");
+            }
+            &[data-param="50 60"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 50\ 60.svg");
+            }
+            &[data-param="50 70"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 50\ 70.svg");
+            }
+            &[data-param="50"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 50.svg");
+            }
+            &[data-param="55"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 55.svg");
+            }
+            &[data-param="60 40"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 60\ 40.svg");
+            }
+            &[data-param="60 50"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 60\ 50.svg");
+            }
+            &[data-param="60 70"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 60\ 70.svg");
+            }
+            &[data-param="60"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 60.svg");
+            }
+            &[data-param="65"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 65.svg");
+            }
+            &[data-param="70 50"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 70\ 50.svg");
+            }
+            &[data-param="70 60"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 70\ 60.svg");
+            }
+            &[data-param="70 80"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 70\ 80.svg");
+            }
+            &[data-param="70"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 70.svg");
+            }
+            &[data-param="75"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 75.svg");
+            }
+            &[data-param="80 70"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 80\ 70.svg");
+            }
+            &[data-param="80"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 80.svg");
+            }
+            &[data-param="85"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 85.svg");
+            }
+            &[data-param="90"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 90.svg");
+            }
+            &[data-param="95"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 95.svg");
+            }
+            &[data-param="100"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 100.svg");
+            }
+            &[data-param="105"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 105.svg");
+            }
+            &[data-param="110"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 110.svg");
+            }
+            &[data-param="115"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 115.svg");
+            }
+            &[data-param="120"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 120.svg");
+            }
+            &[data-param="125"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 125.svg");
+            }
+            &[data-param="130"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 130.svg");
+            }
+            &[data-param="135"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 135.svg");
+            }
+            &[data-param="140"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 140.svg");
+            }
+            &[data-param="150"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 150.svg");
+            }
+            &[data-param="160"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 160.svg");
+            }
+            &[data-param="170"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 170.svg");
+            }
+            &[data-param="180"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 180.svg");
+            }
+            &[data-param="190"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 190.svg");
+            }
+        }
+        &.MOB {
+            &[data-param="10"] {
+                background-image: url("../svg/TIVs/TIV\ D\ MOB\ 10.svg");
+            }
+            &[data-param="20"] {
+                background-image: url("../svg/TIVs/TIV\ D\ MOB\ 20.svg");
+            }
+            &[data-param="30"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 30.svg");
+            }
+            &[data-param="40"] {
+                background-image: url("../svg/TIVs/TIV\ D\ MOB\ 40.svg");
+            }
+            &[data-param="50"] {
+                background-image: url("../svg/TIVs/TIV\ D\ MOB\ 50.svg");
+            }
+            &[data-param="60"] {
+                background-image: url("../svg/TIVs/TIV\ D\ MOB\ 60.svg");
+            }
+            &[data-param="70"] {
+                background-image: url("../svg/TIVs/TIV\ D\ MOB\ 70.svg");
+            }
+            &[data-param="80"] {
+                background-image: url("../svg/TIVs/TIV\ D\ MOB\ 80.svg");
+            }
+            &[data-param="90"] {
+                background-image: url("../svg/TIVs/TIV\ D\ MOB\ 90.svg");
+            }
+            &[data-param="100"] {
+                background-image: url("../svg/TIVs/TIV\ D\ MOB\ 100.svg");
+            }
+            &[data-param="110"] {
+                background-image: url("../svg/TIVs/TIV\ D\ MOB\ 110.svg");
+            }
+            &[data-param="120"] {
+                background-image: url("../svg/TIVs/TIV\ D\ MOB\ 120.svg");
+            }
+            &[data-param="130"] {
+                background-image: url("../svg/TIVs/TIV\ D\ MOB\ 130.svg");
+            }
+            &[data-param="140"] {
+                background-image: url("../svg/TIVs/TIV\ D\ MOB\ 140.svg");
+            }
+            &[data-param="150"] {
+                background-image: url("../svg/TIVs/TIV\ D\ MOB\ 150.svg");
+            }
+            &[data-param="160"] {
+                background-image: url("../svg/TIVs/TIV\ D\ MOB\ 160.svg");
+            }
+            &[data-param="170"] {
+                background-image: url("../svg/TIVs/TIV\ D\ MOB\ 170.svg");
+            }
+            &[data-param="180"] {
+                background-image: url("../svg/TIVs/TIV\ D\ MOB\ 180.svg");
+            }
+        }
+    }
+    &.PEN {
+        &.DIS {
+            &[data-param="1"] {
+                background-image: url("../svg/TIVs/TIV\ PENDIS\ 1.svg");
+            }
+            &[data-param="2"] {
+                background-image: url("../svg/TIVs/TIV\ PENDIS\ 2.svg");
+            }
+            &[data-param="3"] {
+                background-image: url("../svg/TIVs/TIV\ PENDIS\ 3.svg");
+            }
+            &[data-param="4"] {
+                background-image: url("../svg/TIVs/TIV\ PENDIS\ 4.svg");
+            }
+            &[data-param="5"] {
+                background-image: url("../svg/TIVs/TIV\ PENDIS\ 5.svg");
+            }
+            &[data-param="6"] {
+                background-image: url("../svg/TIVs/TIV\ PENDIS\ 6.svg");
+            }
+            &[data-param="7"] {
+                background-image: url("../svg/TIVs/TIV\ PENDIS\ 7.svg");
+            }
+            &[data-param="8"] {
+                background-image: url("../svg/TIVs/TIV\ PENDIS\ 8.svg");
+            }
+            &[data-param="9"] {
+                background-image: url("../svg/TIVs/TIV\ PENDIS\ 9.svg");
+            }
+        }
+        &.EXE {
+            &[data-param="1"] {
+                background-image: url("../svg/TIVs/TIV\ PENEXE\ 1.svg");
+            }
+            &[data-param="2"] {
+                background-image: url("../svg/TIVs/TIV\ PENEXE\ 2.svg");
+            }
+            &[data-param="3"] {
+                background-image: url("../svg/TIVs/TIV\ PENEXE\ 3.svg");
+            }
+            &[data-param="4"] {
+                background-image: url("../svg/TIVs/TIV\ PENEXE\ 4.svg");
+            }
+            &[data-param="5"] {
+                background-image: url("../svg/TIVs/TIV\ PENEXE\ 5.svg");
+            }
+            &[data-param="6"] {
+                background-image: url("../svg/TIVs/TIV\ PENEXE\ 6.svg");
+            }
+            &[data-param="7"] {
+                background-image: url("../svg/TIVs/TIV\ PENEXE\ 7.svg");
+            }
+            &[data-param="8"] {
+                background-image: url("../svg/TIVs/TIV\ PENEXE\ 8.svg");
+            }
+            &[data-param="9"] {
+                background-image: url("../svg/TIVs/TIV\ PENEXE\ 9.svg");
+            }
+        }
+    }
+    &.R {
+        &.MOB {
+            &[data-param="3"] {
+                background-image: url("../svg/TIVs/TIV\ R\ MOB\ 3.svg");
+            }
+            &[data-param="10"] {
+                background-image: url("../svg/TIVs/TIV\ R\ MOB\ 10.svg");
+            }
+            &[data-param="20"] {
+                background-image: url("../svg/TIVs/TIV\ R\ MOB\ 20.svg");
+            }
+            &[data-param="30"] {
+                background-image: url("../svg/TIVs/TIV\ R\ MOB\ 30.svg");
+            }
+            &[data-param="40"] {
+                background-image: url("../svg/TIVs/TIV\ R\ MOB\ 40.svg");
+            }
+            &[data-param="50"] {
+                background-image: url("../svg/TIVs/TIV\ R\ MOB\ 50.svg");
+            }
+            &[data-param="60"] {
+                background-image: url("../svg/TIVs/TIV\ R\ MOB\ 60.svg");
+            }
+            &[data-param="70"] {
+                background-image: url("../svg/TIVs/TIV\ R\ MOB\ 70.svg");
+            }
+            &[data-param="80"] {
+                background-image: url("../svg/TIVs/TIV\ R\ MOB\ 80.svg");
+            }
+            &[data-param="90"] {
+                background-image: url("../svg/TIVs/TIV\ R\ MOB\ 90.svg");
+            }
+            &[data-param="100"] {
+                background-image: url("../svg/TIVs/TIV\ R\ MOB\ 100.svg");
+            }
+            &[data-param="110"] {
+                background-image: url("../svg/TIVs/TIV\ R\ MOB\ 110.svg");
+            }
+            &[data-param="120"] {
+                background-image: url("../svg/TIVs/TIV\ R\ MOB\ 130.svg");
+            }
+            &[data-param="130"] {
+                background-image: url("../svg/TIVs/TIV\ R\ MOB\ 130.svg");
+            }
+            &[data-param="140"] {
+                background-image: url("../svg/TIVs/TIV\ R\ MOB\ 140.svg");
+            }
+            &[data-param="150"] {
+                background-image: url("../svg/TIVs/TIV\ R\ MOB\ 150.svg");
+            }
+            &[data-param="160"] {
+                background-image: url("../svg/TIVs/TIV\ R\ MOB\ 160.svg");
+            }
+            &[data-param="170"] {
+                background-image: url("../svg/TIVs/TIV\ R\ MOB\ 170.svg");
+            }
+            &[data-param="180"] {
+                background-image: url("../svg/TIVs/TIV\ R\ MOB\ 180.svg");
+            }
+            &[data-param="190"] {
+                background-image: url("../svg/TIVs/TIV\ R\ MOB\ 190.svg");
+            }
+        }
+    }
+}
+.TIVD {
+    &.FIX {
+        &.B {
+            &[data-param="30"] {
+                background-image: url("../svg/TIVs/TIVD\ B\ FIX\ 30.svg");
+            }
+            &[data-param="60"] {
+                background-image: url("../svg/TIVs/TIVD\ B\ FIX\ 60.svg");
+            }
+            &[data-param="70"] {
+                background-image: url("../svg/TIVs/TIVD\ B\ FIX\ 60.svg");
+            }
+            &[data-param="80"] {
+                background-image: url("../svg/TIVs/TIVD\ B\ FIX\ 80.svg");
+            }
+            &[data-param="85"] {
+                background-image: url("../svg/TIVs/TIVD\ B\ FIX\ 85.svg");
+            }
+            &[data-param="90"] {
+                background-image: url("../svg/TIVs/TIVD\ B\ FIX\ 90.svg");
+            }
+            &[data-param="95"] {
+                background-image: url("../svg/TIVs/TIVD\ B\ FIX\ 95.svg");
+            }
+            &[data-param="100 110"] {
+                background-image: url("../svg/TIVs/TIVD\ B\ FIX\ 100\ 110.svg");
+            }
+            &[data-param="100"] {
+                background-image: url("../svg/TIVs/TIVD\ B\ FIX\ 100.svg");
+            }
+            &[data-param="110"] {
+                background-image: url("../svg/TIVs/TIVD\ B\ FIX\ 110.svg");
+            }
+            &[data-param="120"] {
+                background-image: url("../svg/TIVs/TIVD\ B\ FIX\ 120.svg");
+            }
+            &[data-param="130"] {
+                background-image: url("../svg/TIVs/TIVD\ B\ FIX\ 130.svg");
+            }
+            &[data-param="135"] {
+                background-image: url("../svg/TIVs/TIVD\ B\ FIX\ 135.svg");
+            }
+            &[data-param="140 150"] {
+                background-image: url("../svg/TIVs/TIVD\ B\ FIX\ 140\ 150.svg");
+            }
+            &[data-param="140"] {
+                background-image: url("../svg/TIVs/TIVD\ B\ FIX\ 140.svg");
+            }
+            &[data-param="145 155"] {
+                background-image: url("../svg/TIVs/TIVD\ B\ FIX\ 145\ 155.svg");
+            }
+            &[data-param="145"] {
+                background-image: url("../svg/TIVs/TIVD\ B\ FIX\ 145.svg");
+            }
+            &[data-param="150 155"] {
+                background-image: url("../svg/TIVs/TIVD\ B\ FIX\ 150\ 155.svg");
+            }
+            &[data-param="150"] {
+                background-image: url("../svg/TIVs/TIVD\ B\ FIX\ 150.svg");
+            }
+            &[data-param="155"] {
+                background-image: url("../svg/TIVs/TIVD\ B\ FIX\ 155.svg");
+            }
+            &[data-param="160"] {
+                background-image: url("../svg/TIVs/TIVD\ B\ FIX\ 160.svg");
+            }
+            &[data-param="170"] {
+                background-image: url("../svg/TIVs/TIVD\ B\ FIX\ 170.svg");
+            }
+            &[data-param="180"] {
+                background-image: url("../svg/TIVs/TIVD\ B\ FIX\ 180.svg");
+            }
+            &[data-param="190"] {
+                background-image: url("../svg/TIVs/TIVD\ B\ FIX\ 190.svg");
+            }
+            &[data-param="200"] {
+                background-image: url("../svg/TIVs/TIVD\ B\ FIX\ 200.svg");
+            }
+            & {
+                background-image: url("../svg/TIVs/TIVD\ B\ FIX.svg");
+            }
+        }
+        &.C {
+            &[data-param="30"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 30.svg");
+            }
+            &[data-param="40"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 40.svg");
+            }
+            &[data-param="50"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 50.svg");
+            }
+            &[data-param="55"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 55.svg");
+            }
+            &[data-param="60 50"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 60\ 50.svg");
+            }
+            &[data-param="60"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 60.svg");
+            }
+            &[data-param="70"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 70.svg");
+            }
+            &[data-param="75"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 75.svg");
+            }
+            &[data-param="80"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 80.svg");
+            }
+            &[data-param="85"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 85.svg");
+            }
+            &[data-param="90"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 90.svg");
+            }
+            &[data-param="95"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 95.svg");
+            }
+            &[data-param="100 120"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 100\ 120.svg");
+            }
+            &[data-param="100"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 100.svg");
+            }
+            &[data-param="105"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 105.svg");
+            }
+            &[data-param="110 120"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 110\ 120.svg");
+            }
+            &[data-param="110 130"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 110\ 130.svg");
+            }
+            &[data-param="110"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 110.svg");
+            }
+            &[data-param="115"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 115.svg");
+            }
+            &[data-param="120 125"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 120\ 125.svg");
+            }
+            &[data-param="120 130"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 120\ 130.svg");
+            }
+            &[data-param="120"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 120.svg");
+            }
+            &[data-param="125"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 125.svg");
+            }
+            &[data-param="130 120"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 130\ 120.svg");
+            }
+            &[data-param="130 140"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 130\ 140.svg");
+            }
+            &[data-param="130 150"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 130\ 150.svg");
+            }
+            &[data-param="130"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 130.svg");
+            }
+            &[data-param="135"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 135.svg");
+            }
+            &[data-param="140 160"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 140\ 160.svg");
+            }
+            &[data-param="140"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 140.svg");
+            }
+            &[data-param="145"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 145.svg");
+            }
+            &[data-param="150"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 150.svg");
+            }
+            &[data-param="160"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 160.svg");
+            }
+            &[data-param="180"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 180.svg");
+            }
+            &[data-param="190"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 190.svg");
+            }
+            &[data-param="200"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 200.svg");
+            }
+            &[data-param="210"] {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX\ 210.svg");
+            }
+            & {
+                background-image: url("../svg/TIVs/TIVD\ C\ FIX.svg");
+            }
+        }
+    }
+}

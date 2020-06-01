@@ -1,11 +1,15 @@
+const files = require('./files').files
+const path = require('path');
+
+const paths = files.map(file => path.resolve(file))
+
 module.exports = {
     'files': [
-        '../svg/*.svg'
+        '../sprites/_svg/*.svg'
     ],
     'fontName': 'signalisation-rfn-svg',
     'classPrefix': 'signalisation-rfn-svg-',
     'baseSelector': '.signalisation-rfn-svg',
-    'types': ['eot', 'woff', 'woff2', 'ttf', 'svg'],
-    'fileName': 'webfont.[fontname].[ext]',
-    // 'html': true
+    'types': ['woff2', 'ttf'],
+    'fileName': '[fontname].[ext]'
 };
