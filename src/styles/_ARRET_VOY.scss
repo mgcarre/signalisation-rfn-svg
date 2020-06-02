@@ -1,6 +1,9 @@
 // partial _ARRET VOY.scss
 
 .signalisation-rfn.ARRET.VOY {
+    &[data-param=""] {
+        background-image: url("../svg/ARRET\ VOY.svg");
+    }
     &[data-param="2V"] {
         background-image: url("../svg/ARRET\ VOY/ARRET\ VOY\ 2V.svg")
     }

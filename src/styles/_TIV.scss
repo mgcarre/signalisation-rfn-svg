@@ -3,6 +3,9 @@
 .signalisation-rfn.TIV {
     &.D{
         &.FIXE{
+            &[data-param] {
+                background-image: url("../svg/TIV\ D\ FIXE.svg");
+            }
             &[data-param="4"] {
                 background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 4.svg");
             }
@@ -32,6 +35,9 @@
             }
             &[data-param="30"] {
                 background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 30.svg");
+            }
+            &[data-param="35"] {
+                background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 35.svg");
             }
             &[data-param="40"] {
                 background-image: url("../svg/TIVs/TIV\ D\ FIXE\ 40.svg");
@@ -143,6 +149,9 @@
             }
         }
         &.MOB {
+            &[data-param] {
+                background-image: url("../svg/TIV\ D\ MOB.svg");
+            }   
             &[data-param="10"] {
                 background-image: url("../svg/TIVs/TIV\ D\ MOB\ 10.svg");
             }
@@ -197,70 +206,85 @@
             &[data-param="180"] {
                 background-image: url("../svg/TIVs/TIV\ D\ MOB\ 180.svg");
             }
+            &[data-param="190"] {
+                background-image: url("../svg/TIVs/TIV\ D\ MOB\ 190.svg");
+            }
         }
     }
-    &.PEN {
-        &.DIS {
-            &[data-param="1"] {
-                background-image: url("../svg/TIVs/TIV\ PENDIS\ 1.svg");
-            }
-            &[data-param="2"] {
-                background-image: url("../svg/TIVs/TIV\ PENDIS\ 2.svg");
-            }
-            &[data-param="3"] {
-                background-image: url("../svg/TIVs/TIV\ PENDIS\ 3.svg");
-            }
-            &[data-param="4"] {
-                background-image: url("../svg/TIVs/TIV\ PENDIS\ 4.svg");
-            }
-            &[data-param="5"] {
-                background-image: url("../svg/TIVs/TIV\ PENDIS\ 5.svg");
-            }
-            &[data-param="6"] {
-                background-image: url("../svg/TIVs/TIV\ PENDIS\ 6.svg");
-            }
-            &[data-param="7"] {
-                background-image: url("../svg/TIVs/TIV\ PENDIS\ 7.svg");
-            }
-            &[data-param="8"] {
-                background-image: url("../svg/TIVs/TIV\ PENDIS\ 8.svg");
-            }
-            &[data-param="9"] {
-                background-image: url("../svg/TIVs/TIV\ PENDIS\ 9.svg");
-            }
+    &.PENDIS {
+        &[data-param] {
+            background-image: url("../svg/TIV\ PENDIS.svg");
         }
-        &.EXE {
-            &[data-param="1"] {
-                background-image: url("../svg/TIVs/TIV\ PENEXE\ 1.svg");
-            }
-            &[data-param="2"] {
-                background-image: url("../svg/TIVs/TIV\ PENEXE\ 2.svg");
-            }
-            &[data-param="3"] {
-                background-image: url("../svg/TIVs/TIV\ PENEXE\ 3.svg");
-            }
-            &[data-param="4"] {
-                background-image: url("../svg/TIVs/TIV\ PENEXE\ 4.svg");
-            }
-            &[data-param="5"] {
-                background-image: url("../svg/TIVs/TIV\ PENEXE\ 5.svg");
-            }
-            &[data-param="6"] {
-                background-image: url("../svg/TIVs/TIV\ PENEXE\ 6.svg");
-            }
-            &[data-param="7"] {
-                background-image: url("../svg/TIVs/TIV\ PENEXE\ 7.svg");
-            }
-            &[data-param="8"] {
-                background-image: url("../svg/TIVs/TIV\ PENEXE\ 8.svg");
-            }
-            &[data-param="9"] {
-                background-image: url("../svg/TIVs/TIV\ PENEXE\ 9.svg");
-            }
+        &[data-param="1"] {
+            background-image: url("../svg/TIVs/TIV\ PENDIS\ 1.svg");
+        }
+        &[data-param="2"] {
+            background-image: url("../svg/TIVs/TIV\ PENDIS\ 2.svg");
+        }
+        &[data-param="3"] {
+            background-image: url("../svg/TIVs/TIV\ PENDIS\ 3.svg");
+        }
+        &[data-param="4"] {
+            background-image: url("../svg/TIVs/TIV\ PENDIS\ 4.svg");
+        }
+        &[data-param="5"] {
+            background-image: url("../svg/TIVs/TIV\ PENDIS\ 5.svg");
+        }
+        &[data-param="6"] {
+            background-image: url("../svg/TIVs/TIV\ PENDIS\ 6.svg");
+        }
+        &[data-param="7"] {
+            background-image: url("../svg/TIVs/TIV\ PENDIS\ 7.svg");
+        }
+        &[data-param="8"] {
+            background-image: url("../svg/TIVs/TIV\ PENDIS\ 8.svg");
+        }
+        &[data-param="9"] {
+            background-image: url("../svg/TIVs/TIV\ PENDIS\ 9.svg");
+        }
+    }
+    &.PENEXE {
+        &[data-param] {
+            background-image: url("../svg/TIV\ PENEXE.svg");
+        }
+        &[data-param="1"] {
+            background-image: url("../svg/TIVs/TIV\ PENEXE\ 1.svg");
+        }
+        &[data-param="2"] {
+            background-image: url("../svg/TIVs/TIV\ PENEXE\ 2.svg");
+        }
+        &[data-param="3"] {
+            background-image: url("../svg/TIVs/TIV\ PENEXE\ 3.svg");
+        }
+        &[data-param="4"] {
+            background-image: url("../svg/TIVs/TIV\ PENEXE\ 4.svg");
+        }
+        &[data-param="5"] {
+            background-image: url("../svg/TIVs/TIV\ PENEXE\ 5.svg");
+        }
+        &[data-param="6"] {
+            background-image: url("../svg/TIVs/TIV\ PENEXE\ 6.svg");
+        }
+        &[data-param="7"] {
+            background-image: url("../svg/TIVs/TIV\ PENEXE\ 7.svg");
+        }
+        &[data-param="8"] {
+            background-image: url("../svg/TIVs/TIV\ PENEXE\ 8.svg");
+        }
+        &[data-param="9"] {
+            background-image: url("../svg/TIVs/TIV\ PENEXE\ 9.svg");
+        }
+    }
+    &.PENREP {
+        &, &[data-param] {
+            background-image: url("../svg/TIV\ PENREP.svg");
         }
     }
     &.R {
         &.MOB {
+            &[data-param] {
+                background-image: url("../svg/TIV\ R\ MOB.svg");
+            }
             &[data-param="3"] {
                 background-image: url("../svg/TIVs/TIV\ R\ MOB\ 3.svg");
             }

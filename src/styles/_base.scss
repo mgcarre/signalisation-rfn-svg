@@ -1,0 +1,259 @@
+// partial _base.scss
+
+.signalisation-rfn{
+    &.A {
+        background-image: url("../svg/A.svg");
+    }
+    &.APPROETSA {
+        background-image: url("../svg/APPROETSA.svg");
+    }
+    &.ARRETA {
+        background-image: url("../svg/ARRET\ A.svg");
+    }
+    &.ARRET {
+        background-image: url("../svg/ARRET.svg");
+    }
+    &.ARRETDESSERTE {
+        background-image: url("../svg/ARRETDESSERTE.svg");
+    }
+    &.ARRETMAN {
+        background-image: url("../svg/ARRETMAN.svg");
+    }
+    &.ARRETREF {
+        background-image: url("../svg/ARRETREF.svg");
+    }
+    &.ARRETTRAINS {
+        background-image: url("../svg/ARRETTRAINS.svg");
+    }
+    &.ATC {
+        background-image: url("../svg/ATC.svg");
+    }
+    &.BANDEJAUNE {
+        background-image: url("../svg/BANDEJAUNE.svg");
+    }
+    &.BP {
+        &.DIS {
+            background-image: url("../svg/BP\ DIS.svg");
+        }
+        &.EXE {
+            background-image: url("../svg/BP\ EXE.svg");
+        }
+        &.FIN {
+            background-image: url("../svg/BP\ FIN.svg");
+        }
+    }
+    &.CAB {
+        &.E {
+            background-image: url("../svg/CAB\ E.svg");
+        }
+        &.R {
+            background-image: url("../svg/CAB\ R.svg");
+        }
+        &.S {
+            background-image: url("../svg/CAB\ S.svg");
+        }
+    }
+    &.CARRE {
+        background-image: url("../svg/CARRE.svg");
+    }
+    &.CC {
+        &.EXE {
+            background-image: url("../svg/CC\ EXE.svg");
+        }
+        &.FIN {
+            background-image: url("../svg/CC\ FIN.svg");
+        }
+    }
+    &.CHEVRON {
+        &.BAS {
+            background-image: url("../svg/CHEVRON\ BAS.svg");
+        }
+        &.HAUT {
+            background-image: url("../svg/CHEVRON\ HAUT.svg");
+        }
+    }
+    &.CV {
+        background-image: url("../svg/CV.svg");
+    }
+    &.D {
+        background-image: url("../svg/D.svg");
+    }
+    &.DD {
+        background-image: url("../svg/DD.svg");
+    }
+    &.DEPOT {
+        background-image: url("../svg/DEPOT.svg");
+    }
+    &.FIN {
+        &.CAT {
+            background-image: url("../svg/FIN\ CAT.svg");
+        }
+    }
+    &.G {
+        background-image: url("../svg/G.svg");
+    }
+    &.GA {
+        background-image: url("../svg/GA.svg");
+    }
+    &.GABARIT {
+        background-image: url("../svg/GABARIT.svg");
+    }
+    &.GARE {
+        background-image: url("../svg/GARE.svg");
+    }
+    &.HEURT {
+        background-image: url("../svg/HEURT....svg");
+    }
+    &.ID {
+        background-image: url("../svg/ID.svg");
+    }
+    &.IDD {
+        &.DROIT {
+            background-image: url("../svg/IDD\ DROIT.svg");
+        }
+        &.GAUCHE {
+            background-image: url("../svg/IDD\ GAUCHE.svg");
+        }
+    }
+    &.IDP {
+        background-image: url("../svg/IDP.svg");
+    }
+    &.IMP {
+        background-image: url("../svg/IMP.svg");
+    }
+    &.JAL {
+        &.ARR {
+            background-image: url("../svg/JAL\ ARR.svg");
+        }
+        &.ARR.E {
+            background-image: url("../svg/JAL\ ARR\ E.svg");
+        }
+        &.MAN {
+            background-image: url("../svg/JAL\ MAN.svg");
+        }
+    }
+    &.JDZB {
+        background-image: url("../svg/JDZB.svg");
+    }
+    &.JDZN {
+        background-image: url("../svg/JDZN.svg");
+    }
+    &.L {
+        background-image: url("../svg/L.svg");
+    }
+    &.LGR {
+        background-image: url("../svg/LGR.svg");
+    }
+    &.LIMITETS {
+        background-image: url("../svg/LIMITETS.svg");
+    }
+    &.LM {
+        background-image: url("../svg/LM.svg");
+    }
+    &.LM2 {
+        background-image: url("../svg/LM2.svg");
+    }
+    &.MATD {
+        background-image: url("../svg/MATD.svg");
+    }
+    &.MATG {
+        background-image: url("../svg/MATG.svg");
+    }
+    &.MIBLAN.VER {
+        background-image: url("../svg/MIBLAN\ VER.svg");
+    }
+    &.MIRLITON1 {
+        background-image: url("../svg/MIRLITON1.svg");
+    }
+    &.MIRLITON2 {
+        background-image: url("../svg/MIRLITON2.svg");
+    }
+    &.MIRLITON3 {
+        background-image: url("../svg/MIRLITON3.svg");
+    }
+    &.P {
+        background-image: url("../svg/P.svg");
+    }
+    &.PN {
+        background-image: url("../svg/PN.svg");
+    }
+    &.PN[class="*"], &.PN[class="..."] {
+        background-image: url("../svg/PN....svg");
+    }
+    &.R {
+        background-image: url("../svg/R.svg");
+    }
+    &.REP.TGV {
+        background-image: url("../svg/REP\ TGV.svg");
+    }
+    &.REV {
+        background-image: url("../svg/REV.svg");
+    }
+    &.S {
+        background-image: url("../svg/S.svg");
+    }
+    &.SAS {
+        background-image: url("../svg/SAS.svg");
+    }
+    &.SECT {
+        background-image: url("../svg/SECT.svg");
+    }
+    &.SIFFLER {
+        background-image: url("../svg/SECT.svg");
+    }
+    &.SIG{
+        &.A {
+            &.DROITE {
+                background-image: url("../svg/SIG\ A\ DROITE.svg");
+            }
+            &.GAUCHE {
+                background-image: url("../svg/SIG\ A\ GAUCHE.svg");
+            }
+        }
+    }
+    &.STOP{
+        background-image: url("../svg/STOP.svg");
+    }
+    &.STOP.A, &.STOP[class="A ..."], &.STOP.A[class="*"] {
+        background-image: url("../svg/STOP\ A.svg");
+    }
+    &.TECS {
+        background-image: url("../svg/TECS.svg");
+    }
+    &.TSCS {
+        background-image: url("../svg/TSCS.svg");
+    }
+    &.VIDE {
+        background-image: url("../svg/VIDE.svg");
+    }
+    &.VIDEN1 {
+        background-image: url("../svg/VIDEN1.svg");
+    }
+    &.VIDEN2 {
+        background-image: url("../svg/VIDEN2.svg");
+    }
+    &.Z {
+        background-image: url("../svg/Z.svg");
+    }
+    &.sig_a_circu {
+        background-image: url("../svg/templates_bal/sig_a_circu.svg");
+    }
+    &.sig_carre {
+        background-image: url("../svg/templates_bal/sig_carre.svg");
+    }
+    &.sig_cv {
+        background-image: url("../svg/templates_bal/sig_cv.svg");
+    }
+    &.sig_disque {
+        background-image: url("../svg/templates_bal/sig_disque.svg");
+    }
+    &.sig_id {
+        background-image: url("../svg/templates_bal/sig_id.svg");
+    }
+    &.sig_s {
+        background-image: url("../svg/templates_bal/sig_s.svg");
+    }
+    &.sig, &.tous {
+        background-image: url("../svg/templates_bal/tous.svg");
+    }
+}

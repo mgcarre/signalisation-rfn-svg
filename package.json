@@ -7,7 +7,8 @@
   ],
   "scripts": {
     "build": "npx webpack",
-    "build:css": "npx sass src/styles/index.scss dist/bundle.css"
+    "build:css": "npx sass src/styles/index.scss dist/bundle.css",
+    "demo:html": "node src/demo.js"
   },
   "devDependencies": {
     "css-loader": "^3.5.3",

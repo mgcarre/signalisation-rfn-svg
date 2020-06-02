@@ -8,12 +8,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="tous.svg"
-   inkscape:version="1.1-dev (ccb98c3c56, 2020-01-19)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    id="svg916"
    version="1.1"
-   viewBox="0 0 64 63.999999"
-   height="64"
-   width="64">
+   viewBox="0 0 250.00002 133"
+   height="133"
+   width="250.00002">
   <defs
      id="defs910" />
   <sodipodi:namedview
@@ -30,9 +30,9 @@
      inkscape:snap-bbox="true"
      inkscape:document-rotation="0"
      inkscape:window-maximized="1"
-     inkscape:window-y="28"
-     inkscape:window-x="0"
-     inkscape:window-height="1024"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="1057"
      inkscape:window-width="1920"
      units="px"
      fit-margin-bottom="0"
@@ -42,8 +42,8 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="-46.345015"
-     inkscape:cx="-255.94195"
+     inkscape:cy="35.297837"
+     inkscape:cx="214.48664"
      inkscape:zoom="2.8"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -54,7 +54,9 @@
      inkscape:snap-global="true">
     <inkscape:grid
        id="grid928"
-       type="xygrid" />
+       type="xygrid"
+       originx="394.00002"
+       originy="-53.000005" />
   </sodipodi:namedview>
   <metadata
      id="metadata913">
@@ -69,12 +71,12 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-84.470781,-25.020833)"
+     transform="translate(309.52924,96.979167)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Calque 1">
     <rect
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect1066"
        width="29.000002"
        height="13.000001"
@@ -82,7 +84,7 @@
        y="-18.979168"
        ry="6.3524189" />
     <rect
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect1068"
        width="13"
        height="52.999996"
@@ -91,11 +93,12 @@
        ry="7.5" />
     <path
        transform="translate(84.470781,25.020833)"
-       d="M -168.64844 -44 C -172.16768 -44 -175 -41.167677 -175 -37.648438 L -175 -37.351562 C -175 -37.219466 -174.98834 -37.090987 -174.98047 -36.960938 C -174.98848 -36.807797 -175 -36.655544 -175 -36.5 L -175 1.5 C -175 5.655 -172.101 9 -168.5 9 C -164.899 9 -162 5.655 -162 1.5 L -162 -31 L -152.35156 -31 C -148.83232 -31 -146 -33.832322 -146 -37.351562 L -146 -37.648438 C -146 -41.167677 -148.83232 -44 -152.35156 -44 L -168.5 -44 L -168.64844 -44 z "
-       style="fill:#000000;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
-       id="rect1010" />
+       d="m -168.64844,-44 c -3.51924,0 -6.35156,2.832323 -6.35156,6.351562 v 0.296876 c 0,0.132096 0.0117,0.260575 0.0195,0.390624 -0.008,0.153141 -0.0195,0.305394 -0.0195,0.460938 v 38 c 0,4.155 2.899,7.5 6.5,7.5 3.601,0 6.5,-3.345 6.5,-7.5 V -31 h 9.64844 c 3.51924,0 6.35156,-2.832322 6.35156,-6.351562 v -0.296876 C -146,-41.167677 -148.83232,-44 -152.35156,-44 H -168.5 Z"
+       style="fill:#000000;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect1010"
+       inkscape:connector-curvature="0" />
     <circle
-       style="fill:#ffcc00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:#ffcc00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
        id="circle1016"
        cx="-84.029221"
        cy="-12.479167"
@@ -105,9 +108,9 @@
        cy="-4.479167"
        cx="-84.029221"
        id="circle1018"
-       style="fill:#ff0000;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000" />
+       style="fill:#ff0000;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill" />
     <circle
-       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
        id="circle1020"
        cx="-84.029221"
        cy="3.520833"
@@ -117,9 +120,9 @@
        cy="11.520833"
        cx="-84.029221"
        id="circle1022"
-       style="fill:#00ff00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000" />
+       style="fill:#00ff00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill" />
     <circle
-       style="fill:#ff0000;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:#ff0000;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
        id="circle1024"
        cx="-84.029221"
        cy="19.520832"
@@ -129,9 +132,9 @@
        cy="27.520832"
        cx="-84.029221"
        id="circle1026"
-       style="fill:#ffcc00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000" />
+       style="fill:#ffcc00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill" />
     <circle
-       style="fill:#ffcc00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:#ffcc00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
        id="circle1028"
        cx="-68.029221"
        cy="-12.479167"
@@ -143,11 +146,11 @@
        height="13"
        width="29"
        id="rect1040"
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        transform="rotate(90)" />
     <rect
        transform="rotate(90)"
-       style="fill:#000000;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:#000000;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect1030"
        width="29"
        height="13"
@@ -156,7 +159,7 @@
        ry="6.4657021" />
     <circle
        transform="rotate(90)"
-       style="fill:#00ff00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:#00ff00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
        id="circle1032"
        cx="-29.47917"
        cy="139.02922"
@@ -167,17 +170,17 @@
        cy="139.02922"
        cx="-37.479168"
        id="circle1034"
-       style="fill:#ff0000;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000" />
+       style="fill:#ff0000;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill" />
     <circle
        transform="rotate(90)"
        r="2.5"
        cy="139.02922"
        cx="-21.47917"
        id="circle1036"
-       style="fill:#ffcc00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000" />
+       style="fill:#ffcc00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill" />
     <rect
        transform="rotate(90)"
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect1054"
        width="45"
        height="13.000002"
@@ -191,24 +194,24 @@
        height="13.000002"
        width="45"
        id="rect1042"
-       style="fill:#000000;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:#000000;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        transform="rotate(90)" />
     <circle
        r="2.5"
        cy="114.02922"
        cx="-29.47917"
        id="circle1044"
-       style="fill:#ff0000;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:#ff0000;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
        transform="rotate(90)" />
     <circle
-       style="fill:#00ff00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:#00ff00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
        id="circle1046"
        cx="-37.479168"
        cy="114.02922"
        r="2.5"
        transform="rotate(90)" />
     <circle
-       style="fill:#ffcc00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:#ffcc00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
        id="circle1048"
        cx="-21.47917"
        cy="114.02922"
@@ -220,9 +223,9 @@
        cy="114.02922"
        cx="-45.479168"
        id="circle1050"
-       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000" />
+       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill" />
     <circle
-       style="fill:#ff0000;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:#ff0000;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
        id="circle1052"
        cx="-53.479168"
        cy="114.02922"
@@ -230,7 +233,7 @@
        transform="rotate(90)" />
     <rect
        transform="rotate(90)"
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect1064"
        width="22.99999"
        height="13.000017"
@@ -244,17 +247,17 @@
        height="13.000017"
        width="22.99999"
        id="rect1056"
-       style="fill:#000000;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:#000000;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        transform="rotate(90)" />
     <circle
        r="2.5"
        cy="169.02922"
        cx="-30.479168"
        id="circle1058"
-       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
        transform="rotate(90)" />
     <circle
-       style="fill:#ff00ff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:#ff00ff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
        id="circle1060"
        cx="-20.479168"
        cy="169.02922"
@@ -262,22 +265,24 @@
        transform="rotate(90)" />
     <path
        id="path1129"
-       style="fill:#666666;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
-       d="M -152.64844 -120 C -156.16768 -120 -159 -117.16768 -159 -113.64844 L -159 -110 L -168.5 -110 L -168.64844 -110 C -172.16768 -110 -175 -107.16768 -175 -103.64844 L -175 -103.35156 C -175 -103.21947 -174.98834 -103.09099 -174.98047 -102.96094 C -174.98848 -102.8078 -175 -102.65554 -175 -102.5 L -175 -93.648438 L -175 -93.351562 L -175 -64.5 C -175 -60.345 -172.101 -57 -168.5 -57 C -164.899 -57 -162 -60.345 -162 -64.5 L -162 -87 L -152.35156 -87 C -148.83232 -87 -146 -89.832323 -146 -93.351562 L -146 -93.648438 L -146 -103.35156 L -146 -103.64844 L -146 -113.64844 C -146 -117.16768 -148.83232 -120 -152.35156 -120 L -152.64844 -120 z "
-       transform="translate(84.470781,25.020833)" />
+       style="fill:#666666;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m -152.64844,-120 c -3.51924,0 -6.35156,2.83232 -6.35156,6.35156 V -110 h -9.5 -0.14844 c -3.51924,0 -6.35156,2.83232 -6.35156,6.35156 v 0.29688 c 0,0.13209 0.0117,0.26057 0.0195,0.39062 -0.008,0.15314 -0.0195,0.3054 -0.0195,0.46094 v 8.851562 0.296876 V -64.5 c 0,4.155 2.899,7.5 6.5,7.5 3.601,0 6.5,-3.345 6.5,-7.5 V -87 h 9.64844 c 3.51924,0 6.35156,-2.832323 6.35156,-6.351562 v -0.296876 -9.703122 -0.29688 -10 c 0,-3.51924 -2.83232,-6.35156 -6.35156,-6.35156 z"
+       transform="translate(84.470781,25.020833)"
+       inkscape:connector-curvature="0" />
     <path
        transform="translate(84.470781,25.020833)"
-       d="M -152.64844 -120 C -156.16768 -120 -159 -117.16768 -159 -113.64844 L -159 -110 L -168.5 -110 L -168.64844 -110 C -172.16768 -110 -175 -107.16768 -175 -103.64844 L -175 -103.35156 C -175 -103.21947 -174.98834 -103.09099 -174.98047 -102.96094 C -174.98848 -102.8078 -175 -102.65554 -175 -102.5 L -175 -93.648438 L -175 -93.351562 L -175 -64.5 C -175 -60.345 -172.101 -57 -168.5 -57 C -164.899 -57 -162 -60.345 -162 -64.5 L -162 -87 L -152.35156 -87 C -148.83232 -87 -146 -89.832323 -146 -93.351562 L -146 -93.648438 L -146 -103.35156 L -146 -103.64844 L -146 -113.64844 C -146 -117.16768 -148.83232 -120 -152.35156 -120 L -152.64844 -120 z "
-       style="fill:#000000;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
-       id="rect1076" />
+       d="m -152.64844,-120 c -3.51924,0 -6.35156,2.83232 -6.35156,6.35156 V -110 h -9.5 -0.14844 c -3.51924,0 -6.35156,2.83232 -6.35156,6.35156 v 0.29688 c 0,0.13209 0.0117,0.26057 0.0195,0.39062 -0.008,0.15314 -0.0195,0.3054 -0.0195,0.46094 v 8.851562 0.296876 V -64.5 c 0,4.155 2.899,7.5 6.5,7.5 3.601,0 6.5,-3.345 6.5,-7.5 V -87 h 9.64844 c 3.51924,0 6.35156,-2.832323 6.35156,-6.351562 v -0.296876 -9.703122 -0.29688 -10 c 0,-3.51924 -2.83232,-6.35156 -6.35156,-6.35156 z"
+       style="fill:#000000;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect1076"
+       inkscape:connector-curvature="0" />
     <circle
        r="2.5"
        cy="-78.479164"
        cx="-84.029221"
        id="circle1084"
-       style="fill:#ffcc00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000" />
+       style="fill:#ffcc00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill" />
     <circle
-       style="fill:#ff0000;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:#ff0000;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
        id="circle1086"
        cx="-84.029221"
        cy="-70.479164"
@@ -287,9 +292,9 @@
        cy="-62.479168"
        cx="-84.029221"
        id="circle1088"
-       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000" />
+       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill" />
     <circle
-       style="fill:#00ff00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:#00ff00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
        id="circle1090"
        cx="-84.029221"
        cy="-54.479168"
@@ -299,9 +304,9 @@
        cy="-46.479168"
        cx="-84.029221"
        id="circle1092"
-       style="fill:#ff0000;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000" />
+       style="fill:#ff0000;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill" />
     <circle
-       style="fill:#ffcc00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:#ffcc00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
        id="circle1094"
        cx="-84.029221"
        cy="-38.479168"
@@ -311,9 +316,9 @@
        cy="-78.479164"
        cx="-68.029221"
        id="circle1096"
-       style="fill:#ffcc00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000" />
+       style="fill:#ffcc00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill" />
     <circle
-       style="fill:#ffcc00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:#ffcc00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
        id="circle1100"
        cx="-68.029221"
        cy="-88.479164"
@@ -323,9 +328,9 @@
        cy="-68.479164"
        cx="-68.029221"
        id="circle1102"
-       style="fill:#ffcc00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000" />
+       style="fill:#ffcc00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill" />
     <circle
-       style="fill:none;stroke:#000000;stroke-width:3.88571;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:none;stroke:#000000;stroke-width:3.88571;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="circle1147"
        cx="-218.02922"
        cy="-31.979168"
@@ -335,23 +340,23 @@
        cy="-31.979168"
        cx="-218.02922"
        id="path1145"
-       style="fill:#000000;stroke:#ffffff;stroke-width:1.93939;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000" />
+       style="fill:#000000;stroke:#ffffff;stroke-width:1.93938994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
     <circle
        transform="rotate(90)"
        r="2.5"
        cy="218.02922"
        cx="-22.479168"
        id="circle1131"
-       style="fill:#ffcc00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000" />
+       style="fill:#ffcc00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill" />
     <circle
        transform="rotate(90)"
        r="2.5"
        cy="218.02922"
        cx="-32.479168"
        id="circle1133"
-       style="fill:#00ff00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000" />
+       style="fill:#00ff00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill" />
     <circle
-       style="fill:#ff0000;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:#ff0000;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
        id="circle1137"
        cx="-28.479168"
        cy="210.02922"
@@ -363,16 +368,16 @@
        cy="226.02922"
        cx="-28.479168"
        id="circle1139"
-       style="fill:#ffcc00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000" />
+       style="fill:#ffcc00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill" />
     <circle
        transform="rotate(90)"
        r="2.5"
        cy="210.02922"
        cx="-36.479168"
        id="circle1141"
-       style="fill:#ffcc00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000" />
+       style="fill:#ffcc00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill" />
     <circle
-       style="fill:#ffcc00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:#ffcc00;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
        id="circle1143"
        cx="-36.479168"
        cy="226.02922"
@@ -385,14 +390,14 @@
        height="7"
        width="6.9999833"
        id="rect1149"
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000" />
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
     <circle
        r="1.5000008"
        transform="rotate(90)"
        cy="174.02922"
        cx="-3.4791663"
        id="circle1151"
-       style="fill:#ffffff;stroke:none;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000" />
+       style="fill:#ffffff;stroke:none;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill" />
     <rect
        ry="0"
        y="-9.979167"
@@ -400,7 +405,7 @@
        height="10"
        width="7.0000014"
        id="rect1155"
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.52767;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000" />
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.52766991;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
     <text
        id="text1159"
        y="-0.97916698"
@@ -413,7 +418,7 @@
          id="tspan1157"
          sodipodi:role="line">F</tspan></text>
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.17499;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.17499018;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect1161"
        width="9.8046894"
        height="10"
@@ -422,7 +427,7 @@
        ry="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.8px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-0.80000001px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
        x="-134.13078"
        y="-0.97916698"
        id="text1165"><tspan
@@ -431,10 +436,10 @@
          id="tspan1163"
          x="-134.13078"
          y="-0.97916698"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:PoliceSNCF;-inkscape-font-specification:PoliceSNCF;fill:#ffffff;">Nf</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:PoliceSNCF;-inkscape-font-specification:PoliceSNCF;fill:#ffffff">Nf</tspan></text>
     <rect
        transform="scale(-1)"
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect1167"
        width="29"
        height="13"
@@ -448,24 +453,24 @@
        height="13"
        width="29"
        id="rect1169"
-       style="fill:#000000;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:#000000;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        transform="scale(-1)" />
     <circle
        r="2.5"
        cy="71.479164"
        cx="258.02921"
        id="circle1171"
-       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
        transform="scale(-1)" />
     <circle
-       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
        id="circle1173"
        cx="250.02922"
        cy="71.479164"
        r="2.5"
        transform="scale(-1)" />
     <circle
-       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
        id="circle1175"
        cx="266.02921"
        cy="71.479164"
@@ -478,11 +483,11 @@
        height="13"
        width="21.000031"
        id="rect1177"
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        transform="scale(-1)" />
     <rect
        transform="scale(-1)"
-       style="fill:#000000;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:#000000;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect1179"
        width="21.000017"
        height="13"
@@ -491,7 +496,7 @@
        ry="6.4657021" />
     <circle
        transform="scale(-1)"
-       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
        id="circle1181"
        cx="293.02921"
        cy="71.479164"
@@ -502,7 +507,7 @@
        cy="71.479164"
        cx="301.02921"
        id="circle1185"
-       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000" />
+       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill" />
     <rect
        ry="6.3645277"
        y="64.979164"
@@ -510,11 +515,11 @@
        height="13"
        width="36.999985"
        id="rect1187"
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        transform="scale(-1)" />
     <rect
        transform="scale(-1)"
-       style="fill:#000000;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:#000000;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect1189"
        width="36.999985"
        height="13"
@@ -523,7 +528,7 @@
        ry="6.4657021" />
     <circle
        transform="scale(-1)"
-       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
        id="circle1191"
        cx="215.02921"
        cy="71.479164"
@@ -534,16 +539,16 @@
        cy="71.479164"
        cx="207.02921"
        id="circle1193"
-       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000" />
+       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill" />
     <circle
        transform="scale(-1)"
        r="2.5"
        cy="71.479164"
        cx="223.02921"
        id="circle1195"
-       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000" />
+       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill" />
     <circle
-       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
        id="circle1197"
        cx="199.02921"
        cy="71.479164"
@@ -556,11 +561,11 @@
        height="13.000002"
        width="45"
        id="rect1199"
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        transform="scale(-1)" />
     <rect
        transform="scale(-1)"
-       style="fill:#000000;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:#000000;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect1201"
        width="45"
        height="13.000002"
@@ -569,7 +574,7 @@
        ry="6.3572311" />
     <circle
        transform="scale(-1)"
-       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
        id="circle1203"
        cx="164.02922"
        cy="71.479164"
@@ -580,16 +585,16 @@
        cy="71.479164"
        cx="156.02924"
        id="circle1205"
-       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000" />
+       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill" />
     <circle
        transform="scale(-1)"
        r="2.5"
        cy="71.479164"
        cx="172.02922"
        id="circle1207"
-       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000" />
+       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill" />
     <circle
-       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
        id="circle1209"
        cx="148.02924"
        cy="71.479164"
@@ -601,6 +606,6 @@
        cy="71.479164"
        cx="140.02924"
        id="circle1211"
-       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000" />
+       style="fill:#ffffff;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill" />
   </g>
 </svg>

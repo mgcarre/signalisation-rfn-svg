@@ -17,4 +17,5 @@ reader(`svg`)
 
 const files = Array.from(mapFiles.values())
 
+exports.keys = Array.from(mapFiles.keys())
 exports.files = files

@@ -1,3 +1,6 @@
+.signalisation-rfn.ARRET.VOY[data-param=""] {
+  background-image: url("../svg/ARRET VOY.svg");
+}
 .signalisation-rfn.ARRET.VOY[data-param="2V"] {
   background-image: url("../svg/ARRET VOY/ARRET VOY 2V.svg");
 }
@@ -96,6 +99,9 @@
   background-image: url("../svg/templates_bal/tous.svg");
 }
 
+.signalisation-rfn.TIV.D.FIXE[data-param] {
+  background-image: url("../svg/TIV D FIXE.svg");
+}
 .signalisation-rfn.TIV.D.FIXE[data-param="4"] {
   background-image: url("../svg/TIVs/TIV D FIXE 4.svg");
 }
@@ -125,6 +131,9 @@
 }
 .signalisation-rfn.TIV.D.FIXE[data-param="30"] {
   background-image: url("../svg/TIVs/TIV D FIXE 30.svg");
+}
+.signalisation-rfn.TIV.D.FIXE[data-param="35"] {
+  background-image: url("../svg/TIVs/TIV D FIXE 35.svg");
 }
 .signalisation-rfn.TIV.D.FIXE[data-param="40"] {
   background-image: url("../svg/TIVs/TIV D FIXE 40.svg");
@@ -234,6 +243,9 @@
 .signalisation-rfn.TIV.D.FIXE[data-param="190"] {
   background-image: url("../svg/TIVs/TIV D FIXE 190.svg");
 }
+.signalisation-rfn.TIV.D.MOB[data-param] {
+  background-image: url("../svg/TIV D MOB.svg");
+}
 .signalisation-rfn.TIV.D.MOB[data-param="10"] {
   background-image: url("../svg/TIVs/TIV D MOB 10.svg");
 }
@@ -288,59 +300,74 @@
 .signalisation-rfn.TIV.D.MOB[data-param="180"] {
   background-image: url("../svg/TIVs/TIV D MOB 180.svg");
 }
-.signalisation-rfn.TIV.PEN.DIS[data-param="1"] {
+.signalisation-rfn.TIV.D.MOB[data-param="190"] {
+  background-image: url("../svg/TIVs/TIV D MOB 190.svg");
+}
+.signalisation-rfn.TIV.PENDIS[data-param] {
+  background-image: url("../svg/TIV PENDIS.svg");
+}
+.signalisation-rfn.TIV.PENDIS[data-param="1"] {
   background-image: url("../svg/TIVs/TIV PENDIS 1.svg");
 }
-.signalisation-rfn.TIV.PEN.DIS[data-param="2"] {
+.signalisation-rfn.TIV.PENDIS[data-param="2"] {
   background-image: url("../svg/TIVs/TIV PENDIS 2.svg");
 }
-.signalisation-rfn.TIV.PEN.DIS[data-param="3"] {
+.signalisation-rfn.TIV.PENDIS[data-param="3"] {
   background-image: url("../svg/TIVs/TIV PENDIS 3.svg");
 }
-.signalisation-rfn.TIV.PEN.DIS[data-param="4"] {
+.signalisation-rfn.TIV.PENDIS[data-param="4"] {
   background-image: url("../svg/TIVs/TIV PENDIS 4.svg");
 }
-.signalisation-rfn.TIV.PEN.DIS[data-param="5"] {
+.signalisation-rfn.TIV.PENDIS[data-param="5"] {
   background-image: url("../svg/TIVs/TIV PENDIS 5.svg");
 }
-.signalisation-rfn.TIV.PEN.DIS[data-param="6"] {
+.signalisation-rfn.TIV.PENDIS[data-param="6"] {
   background-image: url("../svg/TIVs/TIV PENDIS 6.svg");
 }
-.signalisation-rfn.TIV.PEN.DIS[data-param="7"] {
+.signalisation-rfn.TIV.PENDIS[data-param="7"] {
   background-image: url("../svg/TIVs/TIV PENDIS 7.svg");
 }
-.signalisation-rfn.TIV.PEN.DIS[data-param="8"] {
+.signalisation-rfn.TIV.PENDIS[data-param="8"] {
   background-image: url("../svg/TIVs/TIV PENDIS 8.svg");
 }
-.signalisation-rfn.TIV.PEN.DIS[data-param="9"] {
+.signalisation-rfn.TIV.PENDIS[data-param="9"] {
   background-image: url("../svg/TIVs/TIV PENDIS 9.svg");
 }
-.signalisation-rfn.TIV.PEN.EXE[data-param="1"] {
+.signalisation-rfn.TIV.PENEXE[data-param] {
+  background-image: url("../svg/TIV PENEXE.svg");
+}
+.signalisation-rfn.TIV.PENEXE[data-param="1"] {
   background-image: url("../svg/TIVs/TIV PENEXE 1.svg");
 }
-.signalisation-rfn.TIV.PEN.EXE[data-param="2"] {
+.signalisation-rfn.TIV.PENEXE[data-param="2"] {
   background-image: url("../svg/TIVs/TIV PENEXE 2.svg");
 }
-.signalisation-rfn.TIV.PEN.EXE[data-param="3"] {
+.signalisation-rfn.TIV.PENEXE[data-param="3"] {
   background-image: url("../svg/TIVs/TIV PENEXE 3.svg");
 }
-.signalisation-rfn.TIV.PEN.EXE[data-param="4"] {
+.signalisation-rfn.TIV.PENEXE[data-param="4"] {
   background-image: url("../svg/TIVs/TIV PENEXE 4.svg");
 }
-.signalisation-rfn.TIV.PEN.EXE[data-param="5"] {
+.signalisation-rfn.TIV.PENEXE[data-param="5"] {
   background-image: url("../svg/TIVs/TIV PENEXE 5.svg");
 }
-.signalisation-rfn.TIV.PEN.EXE[data-param="6"] {
+.signalisation-rfn.TIV.PENEXE[data-param="6"] {
   background-image: url("../svg/TIVs/TIV PENEXE 6.svg");
 }
-.signalisation-rfn.TIV.PEN.EXE[data-param="7"] {
+.signalisation-rfn.TIV.PENEXE[data-param="7"] {
   background-image: url("../svg/TIVs/TIV PENEXE 7.svg");
 }
-.signalisation-rfn.TIV.PEN.EXE[data-param="8"] {
+.signalisation-rfn.TIV.PENEXE[data-param="8"] {
   background-image: url("../svg/TIVs/TIV PENEXE 8.svg");
 }
-.signalisation-rfn.TIV.PEN.EXE[data-param="9"] {
+.signalisation-rfn.TIV.PENEXE[data-param="9"] {
   background-image: url("../svg/TIVs/TIV PENEXE 9.svg");
+}
+.signalisation-rfn.TIV.PENREP, .signalisation-rfn.TIV.PENREP[data-param] {
+  background-image: url("../svg/TIV PENREP.svg");
+}
+.signalisation-rfn.TIV.R.MOB[data-param] {
+  background-image: url("../svg/TIV R MOB.svg");
 }
 .signalisation-rfn.TIV.R.MOB[data-param="3"] {
   background-image: url("../svg/TIVs/TIV R MOB 3.svg");
@@ -596,22 +623,275 @@
   background-image: url("../svg/TIVs/TIVD C FIX.svg");
 }
 
+.signalisation-rfn.A {
+  background-image: url("../svg/A.svg");
+}
+.signalisation-rfn.APPROETSA {
+  background-image: url("../svg/APPROETSA.svg");
+}
+.signalisation-rfn.ARRETA {
+  background-image: url("../svg/ARRET A.svg");
+}
+.signalisation-rfn.ARRET {
+  background-image: url("../svg/ARRET.svg");
+}
+.signalisation-rfn.ARRETDESSERTE {
+  background-image: url("../svg/ARRETDESSERTE.svg");
+}
+.signalisation-rfn.ARRETMAN {
+  background-image: url("../svg/ARRETMAN.svg");
+}
+.signalisation-rfn.ARRETREF {
+  background-image: url("../svg/ARRETREF.svg");
+}
+.signalisation-rfn.ARRETTRAINS {
+  background-image: url("../svg/ARRETTRAINS.svg");
+}
+.signalisation-rfn.ATC {
+  background-image: url("../svg/ATC.svg");
+}
+.signalisation-rfn.BANDEJAUNE {
+  background-image: url("../svg/BANDEJAUNE.svg");
+}
+.signalisation-rfn.BP.DIS {
+  background-image: url("../svg/BP DIS.svg");
+}
+.signalisation-rfn.BP.EXE {
+  background-image: url("../svg/BP EXE.svg");
+}
+.signalisation-rfn.BP.FIN {
+  background-image: url("../svg/BP FIN.svg");
+}
+.signalisation-rfn.CAB.E {
+  background-image: url("../svg/CAB E.svg");
+}
+.signalisation-rfn.CAB.R {
+  background-image: url("../svg/CAB R.svg");
+}
+.signalisation-rfn.CAB.S {
+  background-image: url("../svg/CAB S.svg");
+}
+.signalisation-rfn.CARRE {
+  background-image: url("../svg/CARRE.svg");
+}
+.signalisation-rfn.CC.EXE {
+  background-image: url("../svg/CC EXE.svg");
+}
+.signalisation-rfn.CC.FIN {
+  background-image: url("../svg/CC FIN.svg");
+}
+.signalisation-rfn.CHEVRON.BAS {
+  background-image: url("../svg/CHEVRON BAS.svg");
+}
+.signalisation-rfn.CHEVRON.HAUT {
+  background-image: url("../svg/CHEVRON HAUT.svg");
+}
+.signalisation-rfn.CV {
+  background-image: url("../svg/CV.svg");
+}
+.signalisation-rfn.D {
+  background-image: url("../svg/D.svg");
+}
+.signalisation-rfn.DD {
+  background-image: url("../svg/DD.svg");
+}
+.signalisation-rfn.DEPOT {
+  background-image: url("../svg/DEPOT.svg");
+}
+.signalisation-rfn.FIN.CAT {
+  background-image: url("../svg/FIN CAT.svg");
+}
+.signalisation-rfn.G {
+  background-image: url("../svg/G.svg");
+}
+.signalisation-rfn.GA {
+  background-image: url("../svg/GA.svg");
+}
+.signalisation-rfn.GABARIT {
+  background-image: url("../svg/GABARIT.svg");
+}
+.signalisation-rfn.GARE {
+  background-image: url("../svg/GARE.svg");
+}
+.signalisation-rfn.HEURT {
+  background-image: url("../svg/HEURT....svg");
+}
+.signalisation-rfn.ID {
+  background-image: url("../svg/ID.svg");
+}
+.signalisation-rfn.IDD.DROIT {
+  background-image: url("../svg/IDD DROIT.svg");
+}
+.signalisation-rfn.IDD.GAUCHE {
+  background-image: url("../svg/IDD GAUCHE.svg");
+}
+.signalisation-rfn.IDP {
+  background-image: url("../svg/IDP.svg");
+}
+.signalisation-rfn.IMP {
+  background-image: url("../svg/IMP.svg");
+}
+.signalisation-rfn.JAL.ARR {
+  background-image: url("../svg/JAL ARR.svg");
+}
+.signalisation-rfn.JAL.ARR.E {
+  background-image: url("../svg/JAL ARR E.svg");
+}
+.signalisation-rfn.JAL.MAN {
+  background-image: url("../svg/JAL MAN.svg");
+}
+.signalisation-rfn.JDZB {
+  background-image: url("../svg/JDZB.svg");
+}
+.signalisation-rfn.JDZN {
+  background-image: url("../svg/JDZN.svg");
+}
+.signalisation-rfn.L {
+  background-image: url("../svg/L.svg");
+}
+.signalisation-rfn.LGR {
+  background-image: url("../svg/LGR.svg");
+}
+.signalisation-rfn.LIMITETS {
+  background-image: url("../svg/LIMITETS.svg");
+}
+.signalisation-rfn.LM {
+  background-image: url("../svg/LM.svg");
+}
+.signalisation-rfn.LM2 {
+  background-image: url("../svg/LM2.svg");
+}
+.signalisation-rfn.MATD {
+  background-image: url("../svg/MATD.svg");
+}
+.signalisation-rfn.MATG {
+  background-image: url("../svg/MATG.svg");
+}
+.signalisation-rfn.MIBLAN.VER {
+  background-image: url("../svg/MIBLAN VER.svg");
+}
+.signalisation-rfn.MIRLITON1 {
+  background-image: url("../svg/MIRLITON1.svg");
+}
+.signalisation-rfn.MIRLITON2 {
+  background-image: url("../svg/MIRLITON2.svg");
+}
+.signalisation-rfn.MIRLITON3 {
+  background-image: url("../svg/MIRLITON3.svg");
+}
+.signalisation-rfn.P {
+  background-image: url("../svg/P.svg");
+}
+.signalisation-rfn.PN {
+  background-image: url("../svg/PN.svg");
+}
+.signalisation-rfn.PN[class="*"], .signalisation-rfn.PN[class="..."] {
+  background-image: url("../svg/PN....svg");
+}
+.signalisation-rfn.R {
+  background-image: url("../svg/R.svg");
+}
+.signalisation-rfn.REP.TGV {
+  background-image: url("../svg/REP TGV.svg");
+}
+.signalisation-rfn.REV {
+  background-image: url("../svg/REV.svg");
+}
+.signalisation-rfn.S {
+  background-image: url("../svg/S.svg");
+}
+.signalisation-rfn.SAS {
+  background-image: url("../svg/SAS.svg");
+}
+.signalisation-rfn.SECT {
+  background-image: url("../svg/SECT.svg");
+}
+.signalisation-rfn.SIFFLER {
+  background-image: url("../svg/SECT.svg");
+}
+.signalisation-rfn.SIG.A.DROITE {
+  background-image: url("../svg/SIG A DROITE.svg");
+}
+.signalisation-rfn.SIG.A.GAUCHE {
+  background-image: url("../svg/SIG A GAUCHE.svg");
+}
+.signalisation-rfn.STOP {
+  background-image: url("../svg/STOP.svg");
+}
+.signalisation-rfn.STOP.A, .signalisation-rfn.STOP[class="A ..."], .signalisation-rfn.STOP.A[class="*"] {
+  background-image: url("../svg/STOP A.svg");
+}
+.signalisation-rfn.TECS {
+  background-image: url("../svg/TECS.svg");
+}
+.signalisation-rfn.TSCS {
+  background-image: url("../svg/TSCS.svg");
+}
+.signalisation-rfn.VIDE {
+  background-image: url("../svg/VIDE.svg");
+}
+.signalisation-rfn.VIDEN1 {
+  background-image: url("../svg/VIDEN1.svg");
+}
+.signalisation-rfn.VIDEN2 {
+  background-image: url("../svg/VIDEN2.svg");
+}
+.signalisation-rfn.Z {
+  background-image: url("../svg/Z.svg");
+}
+.signalisation-rfn.sig_a_circu {
+  background-image: url("../svg/templates_bal/sig_a_circu.svg");
+}
+.signalisation-rfn.sig_carre {
+  background-image: url("../svg/templates_bal/sig_carre.svg");
+}
+.signalisation-rfn.sig_cv {
+  background-image: url("../svg/templates_bal/sig_cv.svg");
+}
+.signalisation-rfn.sig_disque {
+  background-image: url("../svg/templates_bal/sig_disque.svg");
+}
+.signalisation-rfn.sig_id {
+  background-image: url("../svg/templates_bal/sig_id.svg");
+}
+.signalisation-rfn.sig_s {
+  background-image: url("../svg/templates_bal/sig_s.svg");
+}
+.signalisation-rfn.sig, .signalisation-rfn.tous {
+  background-image: url("../svg/templates_bal/tous.svg");
+}
+
 html, body {
   height: 100vh;
   width: 100%;
 }
 
+div.grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  grid-gap: 0.75em;
+  grid-auto-rows: minmax(100px, auto);
+  align-items: center;
+  text-align: center;
+}
+div.grid div {
+  grid-area: auto;
+}
+div.grid div span {
+  margin: 2.5em;
+}
+
 span {
   min-height: 64px;
   min-width: 64px;
-  background-size: auto auto;
+  content: "";
+  position: relative;
+  display: inline-block;
+  margin: 1em;
 }
 span.signalisation-rfn {
   height: 64px;
   width: 64px;
-}
-span.signalisation-rfn.A {
-  background-image: url("../svg/A.svg");
 }
 span.signalisation-rfn-2x {
   height: 128px !important;

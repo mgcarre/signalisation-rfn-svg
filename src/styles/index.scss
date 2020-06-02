@@ -2,6 +2,7 @@
 @use '_ARRET_VOY';
 @use '_templates';
 @use '_TIV';
+@use '_base';
 
 $HW:64px;
 html,body{
@@ -9,18 +10,34 @@ html,body{
     width: 100%;
 }
 
+div.grid {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-gap: 0.75em;
+    grid-auto-rows: minmax(100px, auto);
+    align-items: center;
+    text-align: center;
+    div {
+        grid-area: auto;
+        span {
+            margin: 2.5em;
+        }
+    }
+    
+}
+
 span {
     min-height: $HW;
     min-width: $HW;
 
-    background-size: auto auto;
+    content: "";
+    position: relative;
+    display: inline-block;
+    margin: 1em;
     
     &.signalisation-rfn {
         height: $HW;
         width: $HW;
-        &.A {
-            background-image: url("../svg/A.svg");
-        }
     }
     &.signalisation-rfn-2x {
         height: $HW*2!important;
